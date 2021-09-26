@@ -1,7 +1,7 @@
 # BAT-Net-RNAfold
 ## BAT-Net: An Enhanced RNA Secondary Structure Prediction via Bidirectional GRU-Based Network with Attention Mechanism
 
-Input: RNAs sequential feature are presented in the form of matrices,<br />
+Input: RNAs sequential features are presented in the form of matrix,<br />
 In practice, all the codes and results are packing in the form of .zip files to faciliate uploading or downloading. 
        
 ### Software
