@@ -8,7 +8,8 @@ In practice, all the codes and results are packing in the form of .zip files to 
 To run our program, put the data files and the code files under the same directory.
        
 #### Environment
-* Python
+* Python: 3.6
+* TensorFlow: 1.4.0
 * CPU
 * 128 GB memory
 * 64-bit Windows Operating Systems
