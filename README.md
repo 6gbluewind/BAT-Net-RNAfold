@@ -11,7 +11,7 @@ To run our program, put the data files and the code files under the same directo
 * Python: 3.6
 * TensorFlow: 1.4.0
 * CPU
-* >= 8 GB memory
+* more than 8 GB memory is better
 * 64-bit Windows Operating Systems
 
 ### Data
