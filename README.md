@@ -12,7 +12,7 @@ To run our program, put the data files and the code files under the same directo
 * TensorFlow: 1.4.0
 * CPU (multi-core is better)
 * memory (more than 4 GB memory is better)
-* 64-bit Windows Operating Systems
+* 64-bit Windows Operating Systems / Ubuntu 16.04 System or more latest edition
 
 ### Data
 * Benchmark dataset is illustrated in [1]. These five datasets contain totally 2493 annotated RNA sequences. These datasets are downloaded from RNA STRAND database website.
